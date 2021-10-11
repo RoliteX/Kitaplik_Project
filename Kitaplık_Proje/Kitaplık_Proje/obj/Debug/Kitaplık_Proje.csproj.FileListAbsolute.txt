@@ -1,0 +1,10 @@
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.exe.config
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.exe
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.pdb
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csproj.AssemblyReference.cache
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.Form1.resources
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.Properties.Resources.resources
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csproj.GenerateResource.cache
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csproj.CoreCompileInputs.cache
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.exe
+C:\Araçlarım\yazılım\c#\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.pdb
